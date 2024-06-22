@@ -1,0 +1,32 @@
+Json Examples :
+
+Example 1 : 
+
+{
+  "title": "Employee Data",
+  "content": {
+    "employees": {
+      "John": {
+        "age": 30,
+        "position": "developer"
+      },
+      "Mary": {
+        "age": 25,
+        "position": "designer"
+      }
+    }
+  }
+}
+
+
+Example 2 :
+
+{
+  "title": "Sample PDF",
+  "content": "This is a sample PDF generated from JSON data."
+}
+
+
+
+
+Node* : For local testing use the string that we get from our request here -> https://base64.guru/converter/decode/pdf
